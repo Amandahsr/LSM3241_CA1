@@ -3,6 +3,6 @@ Telomere shortening is shown to regulate adjacent gene expression long before te
 telomere shortening regulates gene expression in normal human myoblasts using microarray data.
 
 An overview of the project is shown below:
-
+(https://github.com/Amandahsr/LSM3241_CA1/blob/main/Results/Project%20Overview.png)
 
 Affymetrix microarray data used for this project was obtained from Robin et al and is made available on [GEO](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE48973).
